@@ -25,7 +25,7 @@
 				<div class="header">
 					<ul class="nav navbar bg-light">
 						<li class="nav-item">
-							<a class="nav-link text-dark" href="index.jsp">InÃ­cio</a>
+							<a class="nav-link text-dark" href="index.jsp">Início</a>
 						</li>
 						<li class="nav-item">
 							<a class="nav-link text-dark" href="../cadastro/index.jsp">Cadastro</a>
@@ -34,7 +34,7 @@
 							<a class="nav-link text-dark" href="../consulta/index.jsp">Consulta</a>
 						</li>
 						<li class="nav-item">
-							<a class="nav-link text-dark" href="../relatorio/index.jsp">RelatÃ³rios</a>
+							<a class="nav-link text-dark" href="../relatorio/index.jsp">Relatórios</a>
 						</li>
 					</ul>
 				</div>
@@ -46,12 +46,12 @@
 					<div class="table-responsive table-hover table-light table-striped table-sm">
 						<table id="datatable-games" style="width: 100%">
 							<thead>
-								<th>CÃ³digo</th>
+								<th>Código</th>
 								<th>Nome</th>
-								<th>GÃªnero</th>
+								<th>Gênero</th>
 								<th>Plataforma</th>
-								<th>Ano de lanÃ§amento</th>
-								<th>AÃ§Ãµes</th>
+								<th>Ano de lançamento</th>
+								<th>Ações</th>
 							</thead>
 							<tbody>
 								<%
